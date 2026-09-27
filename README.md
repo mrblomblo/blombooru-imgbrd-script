@@ -51,5 +51,5 @@ On Windows, you may also need to replace `blombooru/blombooru.js` with `blomboor
 
 This command will be run every time an image is saved, causing it to also be sent to your Blombooru instance!
 
-> [!INFO]
+> [!NOTE]
 > Blombooru only has three ratings (`safe`, `questionable`, `explicit`) and five tag categories (`general`, `artist`, `character`, `copyright`, `meta`). The script automatically maps whatever Grabber provides onto these, collapsing anything in between (e.g. "sensitive"/"sketchy") into `questionable`, and anything outside those five namespaces into `general`.
