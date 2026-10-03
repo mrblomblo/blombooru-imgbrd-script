@@ -1,5 +1,8 @@
 # Blombooru imgbrd-grabber script
 
+> [!IMPORTANT]
+> **This repo is archived and obsolete as it is being officially added to Grabber in https://github.com/Bionus/imgbrd-grabber/pull/3728!**
+
 ## 1. Install Blombooru
 
 Follow the official [Quick Start](https://github.com/mrblomblo/blombooru#quick-start-pre-built-image) documentation from the Blombooru repository.
